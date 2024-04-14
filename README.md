@@ -20,12 +20,6 @@
 
 ###
 
-<h3 align="center">Video Demo:</h3>
-
-<p align="center">
-  <a href="https://streamable.com/guea6f">
-    <img src="https://via.placeholder.com/300.png?text=Click+Here+to+Watch+the+Video" alt="Click here to watch the video" style="border: 3px solid black;"/>
-  </a>
-</p>
+<p align="center">Video Demo:<br>https://streamable.com/guea6f</p>
 
 ###
