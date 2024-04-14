@@ -22,12 +22,11 @@
 
 <h3 align="center">Video Demo:</h3>
 
-<div align="center">
-  <!-- Start of Streamable Embed Code -->
-  <div style="position:relative; width:100%; height:0px; padding-bottom:56.250%">
-    <iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/guea6f?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe>
-  </div>
-  <!-- End of Streamable Embed Code -->
-</div>
+<p align="center">
+  <a href="https://streamable.com/guea6f">
+    <img src="https://i.ibb.co/92WtqJS/stopmusic.png" alt="Video Demo" width="300"/>
+  </a>
+</p>
 
 ###
+
