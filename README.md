@@ -24,9 +24,8 @@
 
 <p align="center">
   <a href="https://streamable.com/guea6f">
-    <img src="https://i.ibb.co/92WtqJS/stopmusic.png" alt="Video Demo" width="300"/>
+    <img src="https://via.placeholder.com/300.png?text=Click+Here+to+Watch+the+Video" alt="Click here to watch the video" style="border: 3px solid black;"/>
   </a>
 </p>
 
 ###
-
