@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="160" src="https://i.ibb.co/92WtqJS/stopmusic.png"  />
+  <img height="160" src="https://i.ibb.co/nPGqFkK/nomusic.png"  />
 </div>
 
 ###
