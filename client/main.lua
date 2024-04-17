@@ -5,8 +5,7 @@ if isQBCore then
     CoreObject = exports['qb-core']:GetCoreObject() -- Get the QBCore object
     playerData = CoreObject.Functions.GetPlayerData() -- Fetch player data
 else
-    ESX = nil
-    TriggerEvent('esx:getSharedObject', function(obj) ESX = obj end) -- Get the ESX object
+    ESX = exports["es_extended"]:getSharedObject() -- Get the ESX object using the new method
     playerData = ESX.GetPlayerData() -- Fetch player data
 end
 
